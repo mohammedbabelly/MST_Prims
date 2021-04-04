@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "MST_Prims",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2021-04-04T18:47:11.963470Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.3"
+}
